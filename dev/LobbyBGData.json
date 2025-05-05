@@ -1,213 +1,212 @@
 [
-  	{
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **BTS** BG Image",
-		"code": 0,
-		"bgImageLarge": 1,
-		"bgImageSmall": 1
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **TOMORROW X TOGETHER** BG Image",
-		"code": 1,
-		"bgImageLarge": 2,
-		"bgImageSmall": 2
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **ENHYPEN** BG Image",
-		"code": 2,
-		"bgImageLarge": 3,
-		"bgImageSmall": 3
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **ILLIT** BG Image",
-		"code": 3,
-		"bgImageLarge": 4,
-		"bgImageSmall": 4
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **SEVENTEEN** BG Image",
-		"code": 4,
-		"bgImageLarge": 5,
-		"bgImageSmall": 5
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **fromis_9 (Flover)** BG Image",
-		"code": 5,
-		"bgImageLarge": 6,
-		"bgImageSmall": 6
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **TWS** BG Image",
-		"code": 6,
-		"bgImageLarge": 7,
-		"bgImageSmall": 7
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **ZICO** BG Image",
-		"code": 7,
-		"bgImageLarge": 8,
-		"bgImageSmall": 8
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **BOYNEXTDOOR** BG Image",
-		"code": 8,
-		"bgImageLarge": 9,
-		"bgImageSmall": 9
-	},
-  {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **NewJeans** BG Image",
-		"code": 9,
-		"bgImageLarge": 10,
-		"bgImageSmall": 10
-	},
-    {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **LE SSERAFIM** BG Image",
-		"code": 10,
-		"bgImageLarge": 11,
-		"bgImageSmall": 11
-	},
-    {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **GFRIEND** BG Image",
-		"code": 11,
-		"bgImageLarge": 12,
-		"bgImageSmall": 12
-	},
-      {
-		"productFontColor": "0xFFFFFFFF",
-		"analyticsData": "`[Basic]` **KATSEYE** BG Image",
-		"code": 12,
-		"bgImageLarge": 13,
-		"bgImageSmall": 13
-	},
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **BTS** BG Image",
-    "code": 13,
-    "bgImageLarge": 14,
-    "bgImageSmall": 14
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **TOMORROW X TOGETHER** BG Image",
-    "code": 14,
-    "bgImageLarge": 15,
-    "bgImageSmall": 15
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **ENHYPEN** BG Image",
-    "code": 15,
-    "bgImageLarge": 16,
-    "bgImageSmall": 16
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **ILLIT** BG Image",
-    "code": 16,
-    "bgImageLarge": 17,
-    "bgImageSmall": 17
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **SEVENTEEN** BG Image",
-    "code": 17,
-    "bgImageLarge": 18,
-    "bgImageSmall": 18
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **fromis_9 (Flover)** BG Image",
-    "code": 18,
-    "bgImageLarge": 19,
-    "bgImageSmall": 19
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **TWS** BG Image",
-    "code": 19,
-    "bgImageLarge": 20,
-    "bgImageSmall": 20
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **ZICO** BG Image",
-    "code": 20,
-    "bgImageLarge": 21,
-    "bgImageSmall": 21
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **BOYNEXTDOOR** BG Image",
-    "code": 21,
-    "bgImageLarge": 22,
-    "bgImageSmall": 22
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **NewJeans** BG Image",
-    "code": 22,
-    "bgImageLarge": 23,
-    "bgImageSmall": 23
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **LE SSERAFIM** BG Image",
-    "code": 23,
-    "bgImageLarge": 24,
-    "bgImageSmall": 24
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **GFRIEND** BG Image",
-    "code": 24,
-    "bgImageLarge": 25,
-    "bgImageSmall": 25
-  },
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Premium]` **KATSEYE** BG Image",
-    "code": 25,
-    "bgImageLarge": 26,
-    "bgImageSmall": 26
-  },
-    {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Event]` **Jung Kook** 'Yes or No' BG Image",
-    "code": 26,
-    "bgImageLarge": 27,
-    "bgImageSmall": 27
-  }
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Event]` **NewJeans** 'How Sweet' BG Image",
-    "code": 27,
-    "bgImageLarge": 28,
-    "bgImageSmall": 28
-  }
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Event]` **ILLIT** 'Cherish (My Love)' BG Image",
-    "code": 28,
-    "bgImageLarge": 29,
-    "bgImageSmall": 29
-  }
-
-  {
-    "productFontColor": "0xFFFFFFFF",
-    "analyticsData": "`[Event]` **KATSEYE** 'Gnarly' BG Image",
-    "code": 29,
-    "bgImageLarge": 30,
-    "bgImageSmall": 30
-  }
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **BTS** BG Image",
+      "code":0,
+      "bgImageLarge":1,
+      "bgImageSmall":1
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **TOMORROW X TOGETHER** BG Image",
+      "code":1,
+      "bgImageLarge":2,
+      "bgImageSmall":2
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **ENHYPEN** BG Image",
+      "code":2,
+      "bgImageLarge":3,
+      "bgImageSmall":3
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **ILLIT** BG Image",
+      "code":3,
+      "bgImageLarge":4,
+      "bgImageSmall":4
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **SEVENTEEN** BG Image",
+      "code":4,
+      "bgImageLarge":5,
+      "bgImageSmall":5
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **fromis_9 (Flover)** BG Image",
+      "code":5,
+      "bgImageLarge":6,
+      "bgImageSmall":6
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **TWS** BG Image",
+      "code":6,
+      "bgImageLarge":7,
+      "bgImageSmall":7
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **ZICO** BG Image",
+      "code":7,
+      "bgImageLarge":8,
+      "bgImageSmall":8
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **BOYNEXTDOOR** BG Image",
+      "code":8,
+      "bgImageLarge":9,
+      "bgImageSmall":9
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **NewJeans** BG Image",
+      "code":9,
+      "bgImageLarge":10,
+      "bgImageSmall":10
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **LE SSERAFIM** BG Image",
+      "code":10,
+      "bgImageLarge":11,
+      "bgImageSmall":11
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **GFRIEND** BG Image",
+      "code":11,
+      "bgImageLarge":12,
+      "bgImageSmall":12
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Basic]` **KATSEYE** BG Image",
+      "code":12,
+      "bgImageLarge":13,
+      "bgImageSmall":13
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **BTS** BG Image",
+      "code":13,
+      "bgImageLarge":14,
+      "bgImageSmall":14
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **TOMORROW X TOGETHER** BG Image",
+      "code":14,
+      "bgImageLarge":15,
+      "bgImageSmall":15
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **ENHYPEN** BG Image",
+      "code":15,
+      "bgImageLarge":16,
+      "bgImageSmall":16
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **ILLIT** BG Image",
+      "code":16,
+      "bgImageLarge":17,
+      "bgImageSmall":17
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **SEVENTEEN** BG Image",
+      "code":17,
+      "bgImageLarge":18,
+      "bgImageSmall":18
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **fromis_9 (Flover)** BG Image",
+      "code":18,
+      "bgImageLarge":19,
+      "bgImageSmall":19
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **TWS** BG Image",
+      "code":19,
+      "bgImageLarge":20,
+      "bgImageSmall":20
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **ZICO** BG Image",
+      "code":20,
+      "bgImageLarge":21,
+      "bgImageSmall":21
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **BOYNEXTDOOR** BG Image",
+      "code":21,
+      "bgImageLarge":22,
+      "bgImageSmall":22
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **NewJeans** BG Image",
+      "code":22,
+      "bgImageLarge":23,
+      "bgImageSmall":23
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **LE SSERAFIM** BG Image",
+      "code":23,
+      "bgImageLarge":24,
+      "bgImageSmall":24
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **GFRIEND** BG Image",
+      "code":24,
+      "bgImageLarge":25,
+      "bgImageSmall":25
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Premium]` **KATSEYE** BG Image",
+      "code":25,
+      "bgImageLarge":26,
+      "bgImageSmall":26
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Event]` **Jung Kook** 'Yes or No' BG Image",
+      "code":26,
+      "bgImageLarge":27,
+      "bgImageSmall":27
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Event]` **NewJeans** 'How Sweet' BG Image",
+      "code":27,
+      "bgImageLarge":28,
+      "bgImageSmall":28
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Event]` **ILLIT** 'Cherish (My Love)' BG Image",
+      "code":28,
+      "bgImageLarge":29,
+      "bgImageSmall":29
+   },
+   {
+      "productFontColor":"0xFFFFFFFF",
+      "analyticsData":"`[Event]` **KATSEYE** 'Gnarly' BG Image",
+      "code":29,
+      "bgImageLarge":30,
+      "bgImageSmall":30
+   }
 ]
