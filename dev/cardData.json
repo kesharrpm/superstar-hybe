@@ -7,7 +7,7 @@
       "guessname": "<:grade_R:1365330012240216217> **LE SSERAFIM : KIM CHAEWON**",
       "min": 2500,
       "max": 5000,
-      "card": 5
+      "card": 1
     }
   ],
 
@@ -19,7 +19,7 @@
       "guessname": "<:grade_S:1365330009333436477> **LE SSERAFIM : KIM CHAEWON**",
       "min": 2000,
       "max": 3000,
-      "card": 4
+      "card": 2
     }
   ],
       "LSF_KC_001HT_A": [
@@ -39,9 +39,9 @@
       "artist": "LE SSERAFIM",
       "guess": 1,
       "guessname": " <:grade_B:1365330003994214480> **LE SSERAFIM : KIM CHAEWON**",
-      "min": 2000,
-      "max": 3000,
-      "card": 2
+      "min": 1000,
+      "max": 1500,
+      "card": 4
     }
   ]
 
@@ -51,9 +51,9 @@
       "artist": "LE SSERAFIM",
       "guess": 1,
       "guessname": "<:grade_C:1365330001045753886> **LE SSERAFIM : KIM CHAEWON**",
-      "min": 2000,
-      "max": 3000,
-      "card": 1
+      "min": 0,
+      "max": 500,
+      "card": 5
     }
   ]
 }
