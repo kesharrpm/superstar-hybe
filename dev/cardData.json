@@ -1,7 +1,7 @@
 {
-  "LSF_KC_001BH_R": [
+  "LSF_KC_001HT_R": [
     {
-      "name": "<:grade_R:1365330012240216217> **LE SSERAFIM : KIM CHAEWON** burning HOT",
+      "name": "<:grade_R:1365330012240216217> **LE SSERAFIM : KIM CHAEWON** HOT",
       "artist": "LE SSERAFIM",
       "guess": 1,
       "guessname": "<:grade_R:1365330012240216217> **LE SSERAFIM : KIM CHAEWON**",
@@ -11,9 +11,9 @@
     }
   ],
 
-    "LSF_KC_001BH_S": [
+    "LSF_KC_001HT_S": [
     {
-      "name": "<:grade_S:1365330009333436477> **LE SSERAFIM : KIM CHAEWON** burning HOT",
+      "name": "<:grade_S:1365330009333436477> **LE SSERAFIM : KIM CHAEWON** HOT",
       "artist": "LE SSERAFIM",
       "guess": 1,
       "guessname": "<:grade_S:1365330009333436477> **LE SSERAFIM : KIM CHAEWON**",
@@ -22,9 +22,9 @@
       "card": 4
     }
   ],
-      "LSF_KC_001BH_A": [
+      "LSF_KC_001HT_A": [
     {
-      "name": "<:grade_A:1365330006640824421> **LE SSERAFIM : KIM CHAEWON** burning HOT",
+      "name": "<:grade_A:1365330006640824421> **LE SSERAFIM : KIM CHAEWON** HOT",
       "artist": "LE SSERAFIM",
       "guess": 1,
       "guessname": "<:grade_A:1365330006640824421> **LE SSERAFIM : KIM CHAEWON**",
@@ -33,9 +33,9 @@
       "card": 3
     }
   ]
-      "LSF_KC_001BH_B": [
+      "LSF_KC_001HT_B": [
     {
-      "name": "<:grade_B:1365330003994214480> **LE SSERAFIM : KIM CHAEWON** burning HOT",
+      "name": "<:grade_B:1365330003994214480> **LE SSERAFIM : KIM CHAEWON** HOT",
       "artist": "LE SSERAFIM",
       "guess": 1,
       "guessname": " <:grade_B:1365330003994214480> **LE SSERAFIM : KIM CHAEWON**",
@@ -45,9 +45,9 @@
     }
   ]
 
-      "LSF_KC_001BH_C": [
+      "LSF_KC_001HT_C": [
     {
-      "name": "<:grade_C:1365330001045753886> **LE SSERAFIM : KIM CHAEWON** burning HOT",
+      "name": "<:grade_C:1365330001045753886> **LE SSERAFIM : KIM CHAEWON** HOT",
       "artist": "LE SSERAFIM",
       "guess": 1,
       "guessname": "<:grade_C:1365330001045753886> **LE SSERAFIM : KIM CHAEWON**",
