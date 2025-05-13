@@ -16,11 +16,11 @@
     "url": "$jsonRequest[https://kesharrpm.github.io/superstar-hybe/dev/assetCardData.json;[$jsonRequest[https://kesharrpm.github.io/superstar-hybe/dev/cardData.json;LSF_HY_001HT_R[0].card]].url]"
   },
       {
-    "code": 3,
+    "code": 4,
     "url": "$jsonRequest[https://kesharrpm.github.io/superstar-hybe/dev/assetCardData.json;[$jsonRequest[https://kesharrpm.github.io/superstar-hybe/dev/cardData.json;LSF_KZ_001HT_R[0].card]].url]"
   },
       {
-    "code": 4,
+    "code": 5,
     "url": "$jsonRequest[https://kesharrpm.github.io/superstar-hybe/dev/assetCardData.json;[$jsonRequest[https://kesharrpm.github.io/superstar-hybe/dev/cardData.json;LSF_HE_001HT_R[0].card]].url]"
   }
 ]
