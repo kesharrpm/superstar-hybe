@@ -1968,6 +1968,1009 @@
       "max": 500,
       "card": 175
     }
+  ],
+  "ILT_YN_001IL_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : YUNAH** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : YUNAH**",
+      "min": 2500,
+      "max": 5000,
+      "card": 176
+    }
+  ],
+  "ILT_YN_001IL_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : YUNAH** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : YUNAH**",
+      "min": 2000,
+      "max": 3000,
+      "card": 177
+    }
+  ],
+  "ILT_YN_001IL_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : YUNAH** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : YUNAH**",
+      "min": 2000,
+      "max": 3000,
+      "card": 178
+    }
+  ],
+  "ILT_YN_001IL_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : YUNAH** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : YUNAH**",
+      "min": 1000,
+      "max": 1500,
+      "card": 179
+    }
+  ],
+  "ILT_YN_001IL_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : YUNAH** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : YUNAH**",
+      "min": 0,
+      "max": 500,
+      "card": 180
+    }
+  ],
+"ILT_MK_001IL_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : MOKA** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : MOKA**",
+      "min": 2500,
+      "max": 5000,
+      "card": 181
+    }
+  ],
+  "ILT_MK_001IL_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : MOKA** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : MOKA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 182
+    }
+  ],
+  "ILT_MK_001IL_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : MOKA** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : MOKA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 183
+    }
+  ],
+  "ILT_MK_001IL_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : MOKA** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : MOKA**",
+      "min": 1000,
+      "max": 1500,
+      "card": 184
+    }
+  ],
+  "ILT_MK_001IL_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : MOKA** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : MOKA**",
+      "min": 0,
+      "max": 500,
+      "card": 185
+    }
+  ],
+
+"ILT_MJ_001IL_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : MINJU** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : MINJU**",
+      "min": 2500,
+      "max": 5000,
+      "card": 186
+    }
+  ],
+  "ILT_MJ_001IL_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : MINJU** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : MINJU**",
+      "min": 2000,
+      "max": 3000,
+      "card": 187
+    }
+  ],
+  "ILT_MJ_001IL_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : MINJU** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : MINJU**",
+      "min": 2000,
+      "max": 3000,
+      "card": 188
+    }
+  ],
+  "ILT_MJ_001IL_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : MINJU** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : MINJU**",
+      "min": 1000,
+      "max": 1500,
+      "card": 189
+    }
+  ],
+  "ILT_MJ_001IL_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : MINJU** I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : MINJU**",
+      "min": 0,
+      "max": 500,
+      "card": 190
+    }
+  ],
+
+"ILT_YN_003TT_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : YUNAH** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : YUNAH**",
+      "min": 2500,
+      "max": 5000,
+      "card": 191
+    }
+  ],
+  "ILT_YN_003TT_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : YUNAH** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : YUNAH**",
+      "min": 2000,
+      "max": 3000,
+      "card": 192
+    }
+  ],
+  "ILT_YN_003TT_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : YUNAH** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : YUNAH**",
+      "min": 2000,
+      "max": 3000,
+      "card": 193
+    }
+  ],
+  "ILT_YN_003TT_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : YUNAH** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : YUNAH**",
+      "min": 1000,
+      "max": 1500,
+      "card": 194
+    }
+  ],
+  "ILT_YN_003TT_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : YUNAH** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : YUNAH**",
+      "min": 0,
+      "max": 500,
+      "card": 195
+    }
+  ],
+"ILT_MK_003TT_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : MOKA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : MOKA**",
+      "min": 2500,
+      "max": 5000,
+      "card": 196
+    }
+  ],
+  "ILT_MK_003TT_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : MOKA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : MOKA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 197
+    }
+  ],
+  "ILT_MK_003TT_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : MOKA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : MOKA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 198
+    }
+  ],
+  "ILT_MK_003TT_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : MOKA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : MOKA**",
+      "min": 1000,
+      "max": 1500,
+      "card": 199
+    }
+  ],
+  "ILT_MK_003TT_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : MOKA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : MOKA**",
+      "min": 0,
+      "max": 500,
+      "card": 200
+    }
+  ],
+
+"ILT_MJ_003TT_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : MINJU** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : MINJU**",
+      "min": 2500,
+      "max": 5000,
+      "card": 201
+    }
+  ],
+  "ILT_MJ_003TT_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : MINJU** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : MINJU**",
+      "min": 2000,
+      "max": 3000,
+      "card": 202
+    }
+  ],
+  "ILT_MJ_003TT_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : MINJU** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : MINJU**",
+      "min": 2000,
+      "max": 3000,
+      "card": 203
+    }
+  ],
+  "ILT_MJ_003TT_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : MINJU** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : MINJU**",
+      "min": 1000,
+      "max": 1500,
+      "card": 204
+    }
+  ],
+  "ILT_MJ_003TT_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : MINJU** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : MINJU**",
+      "min": 0,
+      "max": 500,
+      "card": 205
+    }
+  ],
+
+"ILT_WH_003TT_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : WONHEE** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : WONHEE**",
+      "min": 2500,
+      "max": 5000,
+      "card": 206
+    }
+  ],
+  "ILT_WH_003TT_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : WONHEE** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : WONHEE**",
+      "min": 2000,
+      "max": 3000,
+      "card": 207
+    }
+  ],
+  "ILT_WH_003TT_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : WONHEE** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : WONHEE**",
+      "min": 2000,
+      "max": 3000,
+      "card": 208
+    }
+  ],
+  "ILT_WH_003TT_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : WONHEE** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : WONHEE**",
+      "min": 1000,
+      "max": 1500,
+      "card": 209
+    }
+  ],
+  "ILT_WH_003TT_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : WONHEE** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : WONHEE**",
+      "min": 0,
+      "max": 500,
+      "card": 210
+    }
+  ],
+
+"ILT_IR_003TT_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : IROHA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : IROHA**",
+      "min": 2500,
+      "max": 5000,
+      "card": 211
+    }
+  ],
+  "ILT_IR_003TT_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : IROHA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : IROHA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 212
+    }
+  ],
+  "ILT_IR_003TT_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : IROHA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : IROHA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 213
+    }
+  ],
+  "ILT_IR_003TT_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : IROHA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : IROHA**",
+      "min": 1000,
+      "max": 1500,
+      "card": 214
+    }
+  ],
+  "ILT_IR_003TT_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : IROHA** Tick-Tack",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : IROHA**",
+      "min": 0,
+      "max": 500,
+      "card": 215
+    }
+  ],
+
+"ILT_YN_004MF_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : YUNAH** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : YUNAH**",
+      "min": 2500,
+      "max": 5000,
+      "card": 216
+    }
+  ],
+  "ILT_YN_004MF_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : YUNAH** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : YUNAH**",
+      "min": 2000,
+      "max": 3000,
+      "card": 217
+    }
+  ],
+  "ILT_YN_004MF_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : YUNAH** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : YUNAH**",
+      "min": 2000,
+      "max": 3000,
+      "card": 218
+    }
+  ],
+  "ILT_YN_004MF_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : YUNAH** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : YUNAH**",
+      "min": 1000,
+      "max": 1500,
+      "card": 219
+    }
+  ],
+  "ILT_YN_004MF_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : YUNAH** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : YUNAH**",
+      "min": 0,
+      "max": 500,
+      "card": 220
+    }
+  ],
+"ILT_MK_004MF_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : MOKA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : MOKA**",
+      "min": 2500,
+      "max": 5000,
+      "card": 221
+    }
+  ],
+  "ILT_MK_004MF_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : MOKA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : MOKA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 222
+    }
+  ],
+  "ILT_MK_004MF_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : MOKA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : MOKA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 223
+    }
+  ],
+  "ILT_MK_004MF_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : MOKA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : MOKA**",
+      "min": 1000,
+      "max": 1500,
+      "card": 224
+    }
+  ],
+  "ILT_MK_004MF_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : MOKA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : MOKA**",
+      "min": 0,
+      "max": 500,
+      "card": 225
+    }
+  ],
+
+"ILT_MJ_004MF_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : MINJU** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : MINJU**",
+      "min": 2500,
+      "max": 5000,
+      "card": 226
+    }
+  ],
+  "ILT_MJ_004MF_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : MINJU** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : MINJU**",
+      "min": 2000,
+      "max": 3000,
+      "card": 227
+    }
+  ],
+  "ILT_MJ_004MF_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : MINJU** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : MINJU**",
+      "min": 2000,
+      "max": 3000,
+      "card": 228
+    }
+  ],
+  "ILT_MJ_004MF_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : MINJU** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : MINJU**",
+      "min": 1000,
+      "max": 1500,
+      "card": 229
+    }
+  ],
+  "ILT_MJ_004MF_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : MINJU** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : MINJU**",
+      "min": 0,
+      "max": 500,
+      "card": 230
+    }
+  ],
+
+"ILT_WH_004MF_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : WONHEE** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : WONHEE**",
+      "min": 2500,
+      "max": 5000,
+      "card": 231
+    }
+  ],
+  "ILT_WH_004MF_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : WONHEE** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : WONHEE**",
+      "min": 2000,
+      "max": 3000,
+      "card": 232
+    }
+  ],
+  "ILT_WH_004MF_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : WONHEE** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : WONHEE**",
+      "min": 2000,
+      "max": 3000,
+      "card": 233
+    }
+  ],
+  "ILT_WH_004MF_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : WONHEE** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : WONHEE**",
+      "min": 1000,
+      "max": 1500,
+      "card": 234
+    }
+  ],
+  "ILT_WH_004MF_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : WONHEE** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : WONHEE**",
+      "min": 0,
+      "max": 500,
+      "card": 235
+    }
+  ],
+
+"ILT_IR_004MF_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : IROHA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : IROHA**",
+      "min": 2500,
+      "max": 5000,
+      "card": 236
+    }
+  ],
+  "ILT_IR_004MF_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : IROHA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : IROHA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 237
+    }
+  ],
+  "ILT_IR_004MF_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : IROHA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : IROHA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 238
+    }
+  ],
+  "ILT_IR_004MF_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : IROHA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : IROHA**",
+      "min": 1000,
+      "max": 1500,
+      "card": 239
+    }
+  ],
+  "ILT_IR_004MF_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : IROHA** Midnight Fiction",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : IROHA**",
+      "min": 0,
+      "max": 500,
+      "card": 240
+    }
+  ],
+
+"ILT_YN_005CR_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : YUNAH** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : YUNAH**",
+      "min": 2500,
+      "max": 5000,
+      "card": 241
+    }
+  ],
+  "ILT_YN_005CR_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : YUNAH** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : YUNAH**",
+      "min": 2000,
+      "max": 3000,
+      "card": 242
+    }
+  ],
+  "ILT_YN_005CR_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : YUNAH** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : YUNAH**",
+      "min": 2000,
+      "max": 3000,
+      "card": 243
+    }
+  ],
+  "ILT_YN_005CR_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : YUNAH** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : YUNAH**",
+      "min": 1000,
+      "max": 1500,
+      "card": 244
+    }
+  ],
+  "ILT_YN_005CR_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : YUNAH** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : YUNAH**",
+      "min": 0,
+      "max": 500,
+      "card": 245
+    }
+  ],
+"ILT_MK_005CR_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : MOKA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : MOKA**",
+      "min": 2500,
+      "max": 5000,
+      "card": 246
+    }
+  ],
+  "ILT_MK_005CR_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : MOKA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : MOKA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 247
+    }
+  ],
+  "ILT_MK_005CR_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : MOKA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : MOKA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 248
+    }
+  ],
+  "ILT_MK_005CR_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : MOKA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : MOKA**",
+      "min": 1000,
+      "max": 1500,
+      "card": 249
+    }
+  ],
+  "ILT_MK_005CR_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : MOKA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : MOKA**",
+      "min": 0,
+      "max": 500,
+      "card": 250
+    }
+  ],
+
+"ILT_MJ_005CR_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : MINJU** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : MINJU**",
+      "min": 2500,
+      "max": 5000,
+      "card": 251
+    }
+  ],
+  "ILT_MJ_005CR_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : MINJU** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : MINJU**",
+      "min": 2000,
+      "max": 3000,
+      "card": 252
+    }
+  ],
+  "ILT_MJ_005CR_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : MINJU** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : MINJU**",
+      "min": 2000,
+      "max": 3000,
+      "card": 253
+    }
+  ],
+  "ILT_MJ_005CR_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : MINJU** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : MINJU**",
+      "min": 1000,
+      "max": 1500,
+      "card": 254
+    }
+  ],
+  "ILT_MJ_005CR_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : MINJU** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : MINJU**",
+      "min": 0,
+      "max": 500,
+      "card": 255
+    }
+  ],
+
+"ILT_WH_005CR_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : WONHEE** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : WONHEE**",
+      "min": 2500,
+      "max": 5000,
+      "card": 256
+    }
+  ],
+  "ILT_WH_005CR_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : WONHEE** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : WONHEE**",
+      "min": 2000,
+      "max": 3000,
+      "card": 257
+    }
+  ],
+  "ILT_WH_005CR_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : WONHEE** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : WONHEE**",
+      "min": 2000,
+      "max": 3000,
+      "card": 258
+    }
+  ],
+  "ILT_WH_005CR_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : WONHEE** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : WONHEE**",
+      "min": 1000,
+      "max": 1500,
+      "card": 259
+    }
+  ],
+  "ILT_WH_005CR_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : WONHEE** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : WONHEE**",
+      "min": 0,
+      "max": 500,
+      "card": 260
+    }
+  ],
+
+"ILT_IR_005CR_R": [
+    {
+      "name": "<:grade_R:1365330012240216217> **ILLIT : IROHA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_R:1365330012240216217> **ILLIT : IROHA**",
+      "min": 2500,
+      "max": 5000,
+      "card": 261
+    }
+  ],
+  "ILT_IR_005CR_S": [
+    {
+      "name": "<:grade_S:1365330009333436477> **ILLIT : IROHA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_S:1365330009333436477> **ILLIT : IROHA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 262
+    }
+  ],
+  "ILT_IR_005CR_A": [
+    {
+      "name": "<:grade_A:1365330006640824421> **ILLIT : IROHA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_A:1365330006640824421> **ILLIT : IROHA**",
+      "min": 2000,
+      "max": 3000,
+      "card": 263
+    }
+  ],
+  "ILT_IR_005CR_B": [
+    {
+      "name": "<:grade_B:1365330003994214480> **ILLIT : IROHA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": " <:grade_B:1365330003994214480> **ILLIT : IROHA**",
+      "min": 1000,
+      "max": 1500,
+      "card": 264
+    }
+  ],
+  "ILT_IR_005CR_C": [
+    {
+      "name": "<:grade_C:1365330001045753886> **ILLIT : IROHA** Cherish",
+      "artist": "ILLIT",
+      "guess": 5,
+      "guessname": "<:grade_C:1365330001045753886> **ILLIT : IROHA**",
+      "min": 0,
+      "max": 500,
+      "card": 265
+    }
   ]
 
   
