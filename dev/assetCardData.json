@@ -1218,6 +1218,809 @@
   {
     "code": 200,
     "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@illit@@cherish@@c_l_iroha.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_illit.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@illit@@theme_s_cherish.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_iroha.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@diamond_stars@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_diamond_stars.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@right_now@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_right_now.png,lx-N15,ly-N55,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@eta@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_eta.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_minji.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_minji.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_minji.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_minji.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_minji.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hanni.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hanni.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hanni.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hanni.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hanni.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_danielle.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_danielle.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_danielle.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_danielle.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_danielle.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_haerin.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_haerin.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_haerin.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_haerin.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_haerin.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hyein.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hyein.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hyein.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hyein.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@ditto@@c_l_hyein.png,r-15,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_ditto.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@toxic_lover@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_toxic_lover.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@bubble_gum@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_bubble_gum.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_minji.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_minji.png,lx-N15,ly-N22,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hanni.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hanni.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_danielle.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_danielle.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_haerin.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_haerin.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 196,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_r_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+{
+    "code": 197,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_s_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 198,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_a_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 199,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_b_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
+  },
+  {
+    "code": 200,
+    "url": "https://ik.imagekit.io/ssh/tr:lo-true:l-image,i-resources@@images@@card@@newjeans@@cookie@@c_l_hyein.png,l-end:l-image,i-resources@@images@@frame@@basic@@ced_default_c_Large.png,l-end:l-image,i-resources@@images@@emblem@@emblem_newjeans.png,lx-N12,ly-N270,l-end:l-image,i-resources@@images@@theme@@newjeans@@theme_s_cookie.png,lx-N15,ly-N60,l-end:l-image,i-resources@@images@@artist_name@@artistname_hyein.png,lx-N15,ly-N25,l-end/2025/image.png"
   }
+  
+  
+  
   
 ]
